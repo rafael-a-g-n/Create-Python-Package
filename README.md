@@ -112,5 +112,5 @@ Distributed under the MIT License. See `LICENSE` for more information. (Note: A 
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
+Rafael Nogueira
 Project Link: [https://github.com/rafael-a-g-n/Create-Python-Package](https://github.com/rafael-a-g-n/Create-Python-Package)
