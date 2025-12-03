@@ -1,4 +1,6 @@
-"""Module for statistical calculations like mean and median."""
+"""
+Module for statistical calculations like mean and median.
+"""
 
 
 def mean(numbers):
